@@ -1,0 +1,28 @@
+.jumbotron {
+    
+    background-image: url("https://wallpaperaccess.com/full/1184222.jpg"); 
+    background-size: cover;
+}
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/1184222.jpg"); 
+    background-size: cover;
+}
+
+#headertext{
+    color: black;
+    font-weight: 10000;
+}
+
+#addburger{
+    color: black;
+    font-weight: 20000;
+    font-size: xx-large;
+}
+
+#burg-name{
+    color: black;
+    font-weight: 20000;
+    font-size: x-large;
+}
+
